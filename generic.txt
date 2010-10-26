@@ -1,0 +1,6 @@
+[Adblock]
+.doubleclick.
+.googlesindication.
+mdn.net/instream
+facebook.com##div.adcolumn_wrapper
+facebook.com##div#home_sponsor
